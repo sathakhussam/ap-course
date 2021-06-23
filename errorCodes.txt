@@ -1,0 +1,12 @@
+E0001 - Not found error
+E0002 - The value provided already exists error
+E0003 - The token is invalid
+E0004 - No document found on query
+E0005 - Token expired error
+E0006 - The value provided is already in use (Unique key error)
+E0007 - Validation error
+E0008 - Unknown internal server error.
+E0009 - User password incorrect
+E0010 - Not logged in
+E0011 - Not Authorized to enter
+E0012 - Not Passing values
